@@ -15,10 +15,10 @@ Problem statement link: https://www.drivendata.org/competitions/7/pump-it-up-dat
 
 
 
-Team members          phone number    email id
-Vinayak Dharmatti      7829607782      vinayakdharmatti100@gmail.com
-Veeresh Pattar         9686365854      veereshpattar551@gmail.com
-Abhishek H             9110493930      abhishekhiremath777@gmail.com
+Team members                    email id
+Vinayak Dharmatti            vinayakdharmatti100@gmail.com
+Veeresh Pattar               veereshpattar551@gmail.com
+Abhishek H                   abhishekhiremath777@gmail.com
 
 
 How to run the notebook:
